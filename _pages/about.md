@@ -36,7 +36,7 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
   Mei Zhang, Yanli Zeng, Ke Wang, Yafei Li, **Qingshun Wu**, Mingliang Xu.  
   *IEEE Transactions on Intelligent Transportation Systems*, 2023.   <span style="color:red;"><strong>(CCF-B)</strong></span> [<span style="color:rgb(34,75,141);">[Paper]</span>](https://ieeexplore.ieee.org/document/10414380)  
   <span style="color:blue;"><strong>[SSI'21]</strong></span> Real-time scheduling for carrier-borne aircraft support operations: a reinforcement learning approach.  
-  Yafei Li, **Qingshun Wu**, Xingliang Xu, Pei Lv, Xiaoheng Jiang, Ruijie Zhu, Bing Zhou. 
+  Yafei Li, **Qingshun Wu**, Xingliang Xu, Pei Lv, Xiaoheng Jiang, Ruijie Zhu, Bing Zhou.  
   *SCIENTIA SINICA Informationis*, 2021.   <span style="color:red;"><strong>(CCF-T1)</strong></span> [<span style="color:rgb(34,75,141);">[Paper]</span>](https://www.sciengine.com/SSI/doi/10.1360/SSI-2020-0316)  
   
 
