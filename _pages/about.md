@@ -7,9 +7,27 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am an **Associate Professor** *(pending formal appointment)* at the **School of Computer Science and Artificial Intelligence**, **Zhengzhou University (ZZU)**. I will receive my **Ph.D. degree in Software Engineering** from **Zhengzhou University** in **2026**, supervised by *Prof. Guoliang Chen* and *Prof. Yafei Li*.  
+In **2024**, I was supported by the **China Association for Science and Technology Young Talent Support Program for Doctoral Students (*Qingtuo*)**.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+## **Research Interests**
+
+My research interests span **spatio-temporal data management and analytics** and **artificial intelligence**, with a particular focus on:
+
+- **Spatial Crowdsourcing and Urban Logistics**  
+  *Spatio-temporal task modeling, large-scale optimization, and data-driven urban service systems.*
+
+- **Human-in-the-Loop and Sim-to-Real Decision-Making**  
+  *Collaborative human–AI decision-making for complex spatio-temporal tasks, sim-to-real transfer, and robust learning under uncertainty.*
+
+- **Intelligent Systems**  
+  *Large language models, multi-agent systems, and intelligent unmanned systems.*
+
+## **Publications and Service**
+
+I have published **more than ten research papers** in leading venues, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*.  
+I also serve as a **regular reviewer** for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
+
 
 A data-driven personal website
 ======
