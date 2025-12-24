@@ -29,31 +29,31 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
   *IEEE Transactions on Mobile Computing*, 2025. <span style="color:red;"><strong>(CCF-A)</strong></span> [Paper](https://ieeexplore.ieee.org/document/10756805)  
  <span style="color:blue;"><strong>[TMC'24]</strong></span> Prediction-Aware Adaptive Task Assignment for Spatial Crowdsourcing.  
   **Qingshun Wu**, Yafei Li, Guanglei Zhu, Baolong Mei, Jianliang Xu, Mingling Xu.  
-  *IEEE Transactions on Mobile Computing*, 2024.   <span style="color:red;"><strong>(CCF-A)</strong></span>  
+  *IEEE Transactions on Mobile Computing*, 2024.   <span style="color:red;"><strong>(CCF-A)</strong></span> [Paper](https://ieeexplore.ieee.org/document/10586855)  
    <span style="color:blue;"><strong>[TKDE'23]</strong></span> Efficient Adaptive Matching for Real-Time City Express Delivery.  
   Yafei Li, **Qingshun Wu**, Xin Huang, Jianliang Xu, Wanru Gao, Mingliang Xu.  
-  *IEEE Transactions on Knowledge and Data Engineering*, 2023.   <span style="color:red;"><strong>(CCF-A)</strong></span>  
+  *IEEE Transactions on Knowledge and Data Engineering*, 2023.   <span style="color:red;"><strong>(CCF-A)</strong></span> [Paper](https://ieeexplore.ieee.org/document/9741293)  
   <span style="color:blue;"><strong>[TITS'23]</strong></span> Learned unmanned vehicle scheduling for large-scale urban logistics.  
   Mei Zhang, Yanli Zeng, Ke Wang, Yafei Li, **Qingshun Wu**, Mingliang Xu.  
-  *IEEE Transactions on Intelligent Transportation Systems*, 2023.   <span style="color:red;"><strong>(CCF-B)</strong></span>  
+  *IEEE Transactions on Intelligent Transportation Systems*, 2023.   <span style="color:red;"><strong>(CCF-B)</strong></span> [Paper](https://ieeexplore.ieee.org/document/10414380)  
   <span style="color:blue;"><strong>[SSI'21]</strong></span> Real-time scheduling for carrier-borne aircraft support operations: a reinforcement learning approach.  
   Yafei Li, **Qingshun Wu**, Xingliang Xu, Pei Lv, Xiaoheng Jiang, Ruijie Zhu, Bing Zhou. 
-  *SCIENTIA SINICA Informationis*, 2021.   <span style="color:red;"><strong>(CCF-T1)</strong></span>
+  *SCIENTIA SINICA Informationis*, 2021.   <span style="color:red;"><strong>(CCF-T1)</strong></span> [Paper](https://www.sciengine.com/SSI/doi/10.1360/SSI-2020-0316)  
   
 
 # **Conference papers**
  <span style="color:blue;"><strong>[ICDE'26]</strong></span> High-Fidelity Task Assignment in Spatial Crowdsourcing via Implicit Human Feedback.  
   **Qingshun Wu**, Yafei Li, Jinxing Yan, Yuanyuan Jin, Hua Wang, Mingliang Xu.  
-  *IEEE International Conference on Data Engineering*, 2026.   <span style="color:red;"><strong>(Accept, CCF-A)</strong></span>  
+  *IEEE International Conference on Data Engineering*, 2026.   <span style="color:red;"><strong>(Accept, CCF-A)</strong></span> [Paper](https://icde2026.github.io/cf-research-papers.html)  
  <span style="color:blue;"><strong>[IJCAI'25]</strong></span> HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing with Human-Guided Language Models.  
   **Qingshun Wu**, Yafei Li, Lulu Li, Yuanyuan Jin, Shuo He, Mingliang Xu.  
-  *International Joint Conference on Artificial Intelligence*, 2025.  <span style="color:red;"><strong>(CCF-A)</strong></span>  
+  *International Joint Conference on Artificial Intelligence*, 2025.  <span style="color:red;"><strong>(CCF-A)</strong></span> [Paper](https://www.ijcai.org/proceedings/2025/471)  
  <span style="color:blue;"><strong>[PVLDB'22]</strong></span> AMRAS: A Visual Analysis System for Spatial Crowdsourcing.  
   **Qingshun Wu**, Yafei Li, Huiling Li, Di Zhang, Guanglei Zhu.  
-  *Proceedings of the VLDB Endowment*, 2022.   <span style="color:red;"><strong>(CCF-A)</strong></span>  
+  *Proceedings of the VLDB Endowment*, 2022.   <span style="color:red;"><strong>(CCF-A)</strong></span> [Paper](https://dl.acm.org/doi/abs/10.14778/3554821.3554876)  
  <span style="color:blue;"><strong>[CIKM'22]</strong></span> PRID: An Efficient Pub/Sub Ride Hitching System.  
-  Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu** ^ #.  
-  *ACM International Conference on Information and Knowledge Management*, 2022.   <span style="color:red;"><strong>(CCF-B)</strong></span>
+  Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu^#^**.  
+  *ACM International Conference on Information and Knowledge Management*, 2022.   <span style="color:red;"><strong>(CCF-B)</strong></span>  [Paper](https://dl.acm.org/doi/10.1145/3511808.3557213)  
   
 ## Honors and Awards
 
