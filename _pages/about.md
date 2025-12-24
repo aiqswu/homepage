@@ -51,38 +51,38 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
   **Qingshun Wu**, Yafei Li, Huiling Li, Di Zhang, Guanglei Zhu.  
   *Proceedings of the VLDB Endowment*, 2022.   <span style="color:red;"><strong>(CCF-A)</strong></span> [<span style="color:rgb(34,75,141);">[Paper]</span>](https://dl.acm.org/doi/abs/10.14778/3554821.3554876)  
  <span style="color:blue;"><strong>[CIKM'22]</strong></span> PRID: An Efficient Pub/Sub Ride Hitching System.  
-  Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu**^#^.  
+  Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu**#.  
   *ACM International Conference on Information and Knowledge Management*, 2022.   <span style="color:red;"><strong>(CCF-B)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://dl.acm.org/doi/10.1145/3511808.3557213)  
   
 # **Honors and Awards**
 
- **2025**, **National Scholarship for Ph.D. Students**
- **2025**, **China Association for Science and Technology Young Talent Support Program for Doctoral Students**
- **2024**, **National Scholarship for Ph.D. Students**
- **2022**, *China Graduate Mathematical Contest in Modeling*, **National Third Prize**
- **2022**, *ACM CIKM 2022 NSF Travel Grants*.
- **2022**, *China International “Internet+” College Students Innovation and Entrepreneurship Competition*, **National Third Prize**
- **2021**, **National Scholarship for Master’s Students**
- **2020**, *COVID-19 Data Visualization Public Welfare Action*, **National Silver Award**
- **2019**, *Intel Cup China Graduate Artificial Intelligence Innovation Competition*, **National Third Prize**
+ **2025**, **National Scholarship for Ph.D. Students**  
+ **2025**, **China Association for Science and Technology Young Talent Support Program for Doctoral Students**  
+ **2024**, **National Scholarship for Ph.D. Students**  
+ **2022**, *China Graduate Mathematical Contest in Modeling*, **National Third Prize**  
+ **2022**, *ACM CIKM 2022 NSF Travel Grants*    
+ **2022**, *China International “Internet+” College Students Innovation and Entrepreneurship Competition*, **National Third Prize**  
+ **2021**, **National Scholarship for Master’s Students**  
+ **2020**, *COVID-19 Data Visualization Public Welfare Action*, **National Silver Award**  
+ **2019**, *Intel Cup China Graduate Artificial Intelligence Innovation Competition*, **National Third Prize**  
 
 ---
 
 # **Academic Services**
 
- **2025**, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*
- **2024**, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*
- **2024**, Reviewer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*
- **2023–2025**, Reviewer, *IEEE Transactions on Mobile Computing (TMC)*
- **2023–2025**, Reviewer, *IEEE International Conference on Data Engineering (ICDE)*
- **2023**, Reviewer, *ACM International Conference on Information and Knowledge Management (CIKM)*
- **2022–2025**, Reviewer, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*
+ **2025**, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*  
+ **2024**, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*  
+ **2024**, Reviewer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*  
+ **2023–2025**, Reviewer, *IEEE Transactions on Mobile Computing (TMC)*  
+ **2023–2025**, Reviewer, *IEEE International Conference on Data Engineering (ICDE)*  
+ **2023**, Reviewer, *ACM International Conference on Information and Knowledge Management (CIKM)*  
+ **2022–2025**, Reviewer, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
 
 ---
 
 # **Invited Talks**
 
-- *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, **IJCAI 2025**, Guangzhou, China
-- *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, **VLDB 2022**, Sydney, Australia
-- *PRID: An Efficient Pub/Sub Ride Hitching System*, **CIKM 2022**, Atlanta, USA
+- *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, **IJCAI 2025**, Guangzhou, China  
+- *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, **VLDB 2022**, Sydney, Australia  
+- *PRID: An Efficient Pub/Sub Ride Hitching System*, **CIKM 2022**, Atlanta, USA  
 
