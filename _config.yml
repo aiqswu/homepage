@@ -26,7 +26,9 @@ author:
   avatar           : "qs_profile.png"
   name             : "Qingshun Wu (吴庆顺)"
   pronouns         : # example: "her"  
-  bio              : "Associate Professor / Recipient of Qingtuo (PhD)"
+  bio              : |
+                      **Associate Professor**  
+                      Recipient of Qingtuo (PhD)
   location         : "Henan, China"
   employer         : "Zhengzhou University"
   uri              : # URL
