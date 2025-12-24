@@ -24,9 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "qs_profile.png"
-  name               : |
-                      Qingshun Wu
-                      （吴庆顺）
+  name               : Qingshun Wu\n吴庆顺
   pronouns         : # example: "her"  
   bio              : >
                   Associate Professor
