@@ -10,7 +10,7 @@ redirect_from:
 I am an Associate Professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University (ZZU). I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, supervised by *Academic Guoliang Chen* and *Prof. Yafei Li*.  In 2024, I was supported by the China Association for Science and Technology Young Talent Support Program for Doctoral Students. 
 I have published more than 10 research papers in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a regular reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
 
-# Research Interests
+# **Research Interests**
 
 My research interests cover **Spatio-temporal Data Management and Analytics** and **Artificial Intelligence**, with a particular focus on:
 - **Spatial Crowdsourcing**  
@@ -20,9 +20,8 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
 - **Intelligent Systems**  
   *LLM-powered multi-agent and intelligent unmanned systems.*
 
-# Selected Publications
+# **Selected Publications**
 *( *: equal contribution, #: corresponding author.)*
-
 ## **Journal papers**
  <span style="color:blue;"><strong>[TMC'25]</strong></span> Adaptive Task Assignment in Spatial Crowdsourcing: A Human-in-the-Loop Approach.  
   **Qingshun Wu**, Yafei Li, Jinxing Yan, Mei Zhang, Jianliang Xu, Mingling Xu.  
@@ -55,7 +54,7 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
   Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu**^#^.  
   *ACM International Conference on Information and Knowledge Management*, 2022.   <span style="color:red;"><strong>(CCF-B)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://dl.acm.org/doi/10.1145/3511808.3557213)  
   
-# Honors and Awards
+# **Honors and Awards**
 
  **2025**, **National Scholarship for Ph.D. Students**
  **2025**, **China Association for Science and Technology Young Talent Support Program for Doctoral Students**
@@ -69,7 +68,7 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
 
 ---
 
-# Academic Services
+# **Academic Services**
 
  **2025**, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*
  **2024**, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*
@@ -81,7 +80,7 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
 
 ---
 
-# Invited Talks
+# **Invited Talks**
 
 - *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, **IJCAI 2025**, Guangzhou, China
 - *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, **VLDB 2022**, Sydney, Australia
