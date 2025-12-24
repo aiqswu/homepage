@@ -23,6 +23,42 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
 
 ## **Publications**
 
+( *: equal contribution, #: corresponding author.)
+
+- <span style="color:blue;"><strong>[ICDE'26]</strong></span> High-Fidelity Task Assignment in Spatial Crowdsourcing via Implicit Human Feedback.  
+  **Qingshun Wu**, Yafei Li, Jinxing Yan, Yuanyuan Jin, Hua Wang, Mingliang Xu.  
+  *IEEE International Conference on Data Engineering*, 2026.  
+  <span style="color:red;"><strong>(CCF-A)</strong></span>
+
+- <span style="color:blue;"><strong>[IJCAI'25]</strong></span> HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing with Human-Guided Language Models.  
+  **Qingshun Wu**, Yafei Li, Lulu Li, Yuanyuan Jin, Shuo He, Mingliang Xu.  
+  *International Joint Conference on Artificial Intelligence*, 2025.  
+  <span style="color:red;"><strong>(CCF-A)</strong></span>
+
+- <span style="color:blue;"><strong>[TMC'25]</strong></span> Adaptive Task Assignment in Spatial Crowdsourcing: A Human-in-the-Loop Approach.  
+  **Qingshun Wu**, Yafei Li, Jinxing Yan, Mei Zhang, Jianliang Xu, Mingling Xu.  
+  *IEEE Transactions on Mobile Computing*, 2025.  
+  <span style="color:red;"><strong>(CCF-A)</strong></span>
+
+- <span style="color:blue;"><strong>[TMC'24]</strong></span> Prediction-Aware Adaptive Task Assignment for Spatial Crowdsourcing.  
+  **Qingshun Wu**, Yafei Li, Guanglei Zhu, Baolong Mei, Jianliang Xu, Mingling Xu.  
+  *IEEE Transactions on Mobile Computing*, 2024.  
+  <span style="color:red;"><strong>(CCF-A)</strong></span>
+
+- <span style="color:blue;"><strong>[TKDE'23]</strong></span> Efficient Adaptive Matching for Real-Time City Express Delivery.  
+  Yafei Li, **Qingshun Wu**, Xin Huang, Jianliang Xu, Wanru Gao, Mingliang Xu.  
+  *IEEE Transactions on Knowledge and Data Engineering*, 2023.  
+  <span style="color:red;"><strong>(CCF-A)</strong></span>
+
+- <span style="color:blue;"><strong>[PVLDB'22]</strong></span> AMRAS: A Visual Analysis System for Spatial Crowdsourcing.  
+  **Qingshun Wu**, Yafei Li, Huiling Li, Di Zhang, Guanglei Zhu.  
+  *Proceedings of the VLDB Endowment*, 2022.  
+  <span style="color:red;"><strong>(CCF-A)</strong></span>
+
+- <span style="color:blue;"><strong>[CIKM'22]</strong></span> PRID: An Efficient Pub/Sub Ride Hitching System.  
+  Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu***.  
+  *ACM International Conference on Information and Knowledge Management*, 2022.  
+  <span style="color:red;"><strong>(CCF-B)</strong></span>
 
 
 
