@@ -25,16 +25,15 @@ author:
   # Biographic information
   avatar           : "qs_profile.png"
   name             : |
-                      <div style="text-align: center;">
-                        Qingshun Wu<br/>
+                        Qingshun Wu
                         吴庆顺
-                      </div>
   pronouns         : # example: "her"  
   bio              : |
-                      <div style="text-align: center;">
-                        Associate Professor <br/>
-                        Recipient of Qingtuo (PhD)
-                      </div>
+                       <center>
+                      Associate Professor  
+                      Recipient of Qingtuo (PhD)
+                      </center>
+
   location         : "Henan, China"
   employer         : "Zhengzhou University"
   uri              : # URL
