@@ -24,11 +24,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "qs_profile.png"
-  name               : Qingshun Wu\n吴庆顺
+  name             : Qingshun Wu \n 吴庆顺
   pronouns         : # example: "her"  
-  bio              : >
-                  Associate Professor
-                 Recipient of Qingtuo (PhD)
+ bio: |
+    Associate Professor
+    Recipient of Qingtuo (PhD)
   location         : "Henan, China"
   employer         : "Zhengzhou University"
   uri              : # URL
@@ -53,7 +53,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/aiqswu"
+  github           : "aiqswu"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
