@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University (ZZU). I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, supervised by *Academic Guoliang Chen* and *Prof. Yafei Li*.  In 2024, I was supported by the China Association for Science and Technology Young Talent Support Program for Doctoral Students. 
+I am an Associate Professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University (ZZU). I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, supervised by *Academic Guoliang Chen* and *Prof. Yafei Li*.  In 2024, I was supported by the *China Association for Science and Technology Young Talent Support Program for Doctoral Students*. 
 I have published more than 10 research papers in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a regular reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
 
 # **Research Interests**
@@ -64,7 +64,7 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
  **2022**, *China International “Internet+” College Students Innovation and Entrepreneurship Competition*, **National Third Prize**  
  **2021**, **National Scholarship for Master’s Students**  
  **2020**, *COVID-19 Data Visualization Public Welfare Action*, **National Silver Award**  
- **2019**, *Intel Cup China Graduate Artificial Intelligence Innovation Competition*, **National Third Prize**  
+ **2019**, *"Intel Cup" China Graduate Artificial Intelligence Innovation Competition*, **National Third Prize**  
 
 ---
 
