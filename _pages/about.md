@@ -7,26 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Associate Professor** *(pending formal appointment)* at the **School of Computer Science and Artificial Intelligence**, **Zhengzhou University (ZZU)**. I will receive my **Ph.D. degree in Software Engineering** from **Zhengzhou University** in **2026**, supervised by *Prof. Guoliang Chen* and *Prof. Yafei Li*.  
-In **2024**, I was supported by the **China Association for Science and Technology Young Talent Support Program for Doctoral Students (*Qingtuo*)**.
+I am an **Associate Professor** *(pending formal appointment)* at the **School of Computer Science and Artificial Intelligence**, **Zhengzhou University (ZZU)**. I will receive my **Ph.D. degree in Software Engineering** from **Zhengzhou University** in **2026**, supervised by *Academic Guoliang Chen* and *Prof. Yafei Li*.  
+In 2024, I was supported by the **China Association for Science and Technology Young Talent Support Program for Doctoral Students (*Qingtuo*)**. I have published **more than 10 research papers** in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*.  
+I also serve as a **regular reviewer** for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
 
 ## **Research Interests**
 
-My research interests span **spatio-temporal data management and analytics** and **artificial intelligence**, with a particular focus on:
-
-- **Spatial Crowdsourcing and Urban Logistics**  
+My research interests cover **Spatio-temporal Data Management and Analytics** and **Artificial Intelligence**, with a particular focus on:
+- **Spatial Crowdsourcing**  
   *Spatio-temporal task modeling, large-scale optimization, and data-driven urban service systems.*
-
-- **Human-in-the-Loop and Sim-to-Real Decision-Making**  
+- **Human-in-the-Loop**  
   *Collaborative human–AI decision-making for complex spatio-temporal tasks, sim-to-real transfer, and robust learning under uncertainty.*
-
 - **Intelligent Systems**  
   *Large language models, multi-agent systems, and intelligent unmanned systems.*
 
-## **Publications and Service**
+## **Publications**
 
-I have published **more than ten research papers** in leading venues, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*.  
-I also serve as a **regular reviewer** for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
+
+
+
 
 
 A data-driven personal website
