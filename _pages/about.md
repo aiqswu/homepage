@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an **Associate Professor** *(pending formal appointment)* at the **School of Computer Science and Artificial Intelligence**, **Zhengzhou University (ZZU)**. I will receive my **Ph.D. degree in Software Engineering** from **Zhengzhou University** in **2026**, supervised by *Academic Guoliang Chen* and *Prof. Yafei Li*.  In 2024, I was supported by the **China Association for Science and Technology Young Talent Support Program for Doctoral Students**. 
-I have published **more than 10 research papers** in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a **regular reviewer** for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
+I am an Associate Professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University (ZZU). I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, supervised by *Academic Guoliang Chen* and *Prof. Yafei Li*.  In 2024, I was supported by the China Association for Science and Technology Young Talent Support Program for Doctoral Students. 
+I have published more than 10 research papers in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a regular reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
 
 # Research Interests
 
@@ -71,7 +71,7 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
 
 # Academic Services
 
- **2025**, *Annual AAAI Conference on Artificial Intelligence (AAAI)*
+ **2025**, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*
  **2024**, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*
  **2024**, Reviewer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*
  **2023–2025**, Reviewer, *IEEE Transactions on Mobile Computing (TMC)*
