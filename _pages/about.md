@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qingshun Wu's homepage"
+title: "Abote Me"
 author_profile: true
 redirect_from: 
   - /about/
