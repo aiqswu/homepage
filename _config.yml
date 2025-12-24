@@ -24,11 +24,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "qs_profile.png"
-  name             : "Qingshun Wu (吴庆顺)"
+  name             : |
+                      <div style="text-align: center;">
+                        Qingshun Wu<br/>
+                        吴庆顺
+                      </div>
   pronouns         : # example: "her"  
   bio              : |
-                      **Associate Professor**  
-                      Recipient of Qingtuo (PhD)
+                      <div style="text-align: center;">
+                        Associate Professor <br/>
+                        Recipient of Qingtuo (PhD)
+                      </div>
   location         : "Henan, China"
   employer         : "Zhengzhou University"
   uri              : # URL
