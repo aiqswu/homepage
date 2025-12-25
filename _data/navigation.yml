@@ -9,25 +9,25 @@
 
 main:
   - title: "Publications"
-    url: /publications/
+    url: /about/#publications
+    
+  - title: "Honors"
+    url: /about/#honors  
+    
+  - title: "Services"
+    url: /about/#services 
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
+    url: /about/#talks 
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
+  # - title: "Blog Posts"
+  #   url: /year-archive/
     
   # - title: "CV"
-  #   url: /cv-json/
+  #   url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  # # - title: "CV"
+  # #   url: /cv-json/
+    
+  # - title: "Guide"
+  #   url: /markdown/
