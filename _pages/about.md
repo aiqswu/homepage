@@ -22,7 +22,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
   
   ---
   
-# **Selected Publications**{#publications}
+# **Selected Publications** {#publications}
 *( *: equal contribution, #: corresponding author)*
 ## **Journal papers**
  <span style="color:blue;"><strong>[TMC'25]</strong></span> Adaptive Task Assignment in Spatial Crowdsourcing: A Human-in-the-Loop Approach.  
@@ -58,7 +58,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
  
   ---
   
-# **Honors and Awards**{#honors}
+# **Honors and Awards** {#honors}
 
  2025, National Scholarship for Ph.D. Students  
  2024, China Association for Science and Technology Young Talent Support Program for Doctoral Students  
@@ -72,7 +72,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 
 ---
 
-# **Academic Services**{#services}
+# **Academic Services** {#services}
 
  2025, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*  
  2024, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*  
@@ -84,7 +84,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 
 ---
 
-# **Invited Talks**{#talks}
+# **Invited Talks** {#talks}
 
 - *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, IJCAI 2025, Guangzhou, China  
 - *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, VLDB 2022, Sydney, Australia  
