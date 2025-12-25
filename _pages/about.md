@@ -7,23 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University. I am also a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, advised by Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). In 2024, I was supported by the *China Association for Science and Technology Young Talent Support Program for Doctoral Students*. I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, under the supervision of Academician [Guoliang Chen](https://casad.cas.cn/ysxx2022/ysmd/xxjs/200906/t20090624_1807834.html) and Prof. [Yafei Li](https://www7.zzu.edu.cn/csai/info/1234/3327.htm). 
-I have published more than 10 research papers in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
+I am an associate professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University. I am also a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, advised by Prof. [<span style="color:rgb(34,75,141);">Mingliang Xu</span>](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). In 2024, I was supported by the *China Association for Science and Technology Young Talent Support Program for Doctoral Students*. I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, under the supervision of Academician [<span style="color:rgb(34,75,141);">Guoliang Chen</span>](https://casad.cas.cn/ysxx2022/ysmd/xxjs/200906/t20090624_1807834.html) and Prof. [<span style="color:rgb(34,75,141);">Yafei Li</span>](https://www7.zzu.edu.cn/csai/info/1234/3327.htm). 
+I have published more than 10 research papers in top-tier international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
 
 ## **Research Interests**
 
-My research interests cover **Spatio-temporal Data Management and Analytics** and **Artificial Intelligence**, with a particular focus on:
+My research interests cover *Spatio-temporal Data Management* and *Artificial Intelligence*, with a particular focus on:
 - **Spatial Crowdsourcing**  
   *Spatio-temporal task modeling, large-scale optimization, and AI-driven urban service systems (e.g., urban logistics, ridesharing, food delivery).*
 - **Human-in-the-Loop Techniques**  
-  *Collaborative human–AI decision-making for complex spatio-temporal tasks, sim-to-real transfer, and robust learning under uncertainty.*
+  *Collaborative human–machine decision-making for complex spatio-temporal tasks, sim-to-real transfer, and robust learning under uncertainty.*
 - **Intelligent Systems**  
   *LLM-powered multi-agent and intelligent unmanned systems.*
   
   ---
   
 # **Selected Publications**
-*( *: equal contribution, #: corresponding author.)*
+*( *: equal contribution, #: corresponding author)*
 ## **Journal papers**
  <span style="color:blue;"><strong>[TMC'25]</strong></span> Adaptive Task Assignment in Spatial Crowdsourcing: A Human-in-the-Loop Approach.  
   **Qingshun Wu**, Yafei Li, Jinxing Yan, Mei Zhang, Jianliang Xu, Mingling Xu.  
@@ -53,40 +53,40 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
   **Qingshun Wu**, Yafei Li, Huiling Li, Di Zhang, Guanglei Zhu.  
   *Proceedings of the VLDB Endowment*, 2022.   <span style="color:red;"><strong>(CCF-A)</strong></span> [<span style="color:rgb(34,75,141);">[Paper]</span>](https://dl.acm.org/doi/abs/10.14778/3554821.3554876)  
  <span style="color:blue;"><strong>[CIKM'22]</strong></span> PRID: An Efficient Pub/Sub Ride Hitching System.  
-  Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu**#.  
+  Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu#**.  
   *ACM International Conference on Information and Knowledge Management*, 2022.   <span style="color:red;"><strong>(CCF-B)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://dl.acm.org/doi/10.1145/3511808.3557213)  
  
   ---
   
 # **Honors and Awards**
 
- **2025**, **National Scholarship for Ph.D. Students**  
- **2025**, **China Association for Science and Technology Young Talent Support Program for Doctoral Students**  
- **2024**, **National Scholarship for Ph.D. Students**  
- **2022**, *China Graduate Mathematical Contest in Modeling*, **National Third Prize**  
- **2022**, *ACM CIKM 2022 NSF Travel Grants*    
- **2022**, *China International “Internet+” College Students Innovation and Entrepreneurship Competition*, **National Third Prize**  
- **2021**, **National Scholarship for Master’s Students**  
- **2020**, *COVID-19 Data Visualization Public Welfare Action*, **National Silver Award**  
- **2019**, *"Intel Cup" China Graduate Artificial Intelligence Innovation Competition*, **National Third Prize**  
+ 2025, National Scholarship for Ph.D. Students 
+ 2024, China Association for Science and Technology Young Talent Support Program for Doctoral Students  
+ 2024, National Scholarship for Ph.D. Students  
+ 2022, China Graduate Mathematical Contest in Modeling, National Third Prize  
+ 2022, ACM CIKM 2022 NSF Travel Grants    
+ 2022, China International “Internet+” College Students Innovation and Entrepreneurship Competition, National Third Prize  
+ 2021, National Scholarship for Master’s Students  
+ 2020, COVID-19 Data Visualization Public Welfare Action, National Silver Award   
+ 2019, "Intel Cup" China Graduate Artificial Intelligence Innovation Competition, National Third Prize  
 
 ---
 
 # **Academic Services**
 
- **2025**, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*  
- **2024**, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*  
- **2024**, Reviewer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*  
- **2023–2025**, Reviewer, *IEEE Transactions on Mobile Computing (TMC)*  
- **2023–2025**, Reviewer, *IEEE International Conference on Data Engineering (ICDE)*  
- **2023**, Reviewer, *ACM International Conference on Information and Knowledge Management (CIKM)*  
- **2022–2025**, Reviewer, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
+ 2025, Reviewer, *Annual AAAI Conference on Artificial Intelligence (AAAI)*  
+ 2024, Reviewer, *International Joint Conference on Artificial Intelligence (IJCAI)*  
+ 2024, Reviewer, *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (SIGKDD)*  
+ 2023–2025, Reviewer, *IEEE Transactions on Mobile Computing (TMC)*  
+ 2023–2025, Reviewer, *IEEE International Conference on Data Engineering (ICDE)*  
+ 2023, Reviewer, *ACM International Conference on Information and Knowledge Management (CIKM)*  
+ 2022–2025, Reviewer, *IEEE Transactions on Knowledge and Data Engineering (TKDE)*  
 
 ---
 
 # **Invited Talks**
 
-- *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, **IJCAI 2025**, Guangzhou, China  
-- *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, **VLDB 2022**, Sydney, Australia  
-- *PRID: An Efficient Pub/Sub Ride Hitching System*, **CIKM 2022**, Atlanta, USA  
+- *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, IJCAI 2025, Guangzhou, China  
+- *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, VLDB 2022, Sydney, Australia  
+- *PRID: An Efficient Pub/Sub Ride Hitching System*, CIKM 2022, Atlanta, USA  
 
