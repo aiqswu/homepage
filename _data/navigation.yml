@@ -11,13 +11,13 @@ main:
   - title: "Publications"
     url: /about/#publications
     
-  - title: "Honors"
+  - title: "Honors and Awards"
     url: /about/#honors  
     
-  - title: "Services"
+  - title: "Academic Services"
     url: /about/#services 
 
-  - title: "Talks"
+  - title: "Invited Talks"
     url: /about/#talks 
         
   # - title: "Blog Posts"
