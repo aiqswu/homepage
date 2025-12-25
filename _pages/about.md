@@ -60,7 +60,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
   
 # **Honors and Awards**
 
- 2025, National Scholarship for Ph.D. Students 
+ 2025, National Scholarship for Ph.D. Students  
  2024, China Association for Science and Technology Young Talent Support Program for Doctoral Students  
  2024, National Scholarship for Ph.D. Students  
  2022, China Graduate Mathematical Contest in Modeling, National Third Prize  
