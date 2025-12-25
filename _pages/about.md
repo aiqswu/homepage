@@ -16,7 +16,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 - **Spatial Crowdsourcing**  
   *Spatio-temporal task modeling, large-scale optimization, and AI-driven urban service systems (e.g., urban logistics, ridesharing, food delivery).*
 - **Human-in-the-Loop Techniques**  
-  *Collaborative human–machine decision-making for complex spatio-temporal tasks, sim-to-real transfer, and robust learning under uncertainty.*
+  *Collaborative human-machine decision-making for complex spatio-temporal tasks, sim-to-real transfer, and robust learning under uncertainty.*
 - **Intelligent Systems**  
   *LLM-powered multi-agent and intelligent unmanned systems.*
   
