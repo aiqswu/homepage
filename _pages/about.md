@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "Abote Me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an Associate Professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University (ZZU). I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, supervised by *Academic Guoliang Chen* and *Prof. Yafei Li*.  In 2024, I was supported by the *China Association for Science and Technology Young Talent Support Program for Doctoral Students*. 
-I have published more than 10 research papers in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a regular reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
+I am an associate professor *(pending formal appointment)* at the School of Computer Science and Artificial Intelligence, Zhengzhou University. I am also a member of the Intelligent Cluster System Engineering Research Center of the Ministry of Education, advised by Prof. [Mingliang Xu](https://www7.zzu.edu.cn/csai/info/1234/2497.htm). In 2024, I was supported by the *China Association for Science and Technology Young Talent Support Program for Doctoral Students*. I will receive my Ph.D. degree in Software Engineering from Zhengzhou University in 2026, under the supervision of Academician [Guoliang Chen](https://casad.cas.cn/ysxx2022/ysmd/xxjs/200906/t20090624_1807834.html) and Prof. [Yafei Li](https://www7.zzu.edu.cn/csai/info/1234/3327.htm). 
+I have published more than 10 research papers in international journals/conferences, including *IEEE TKDE*, *IEEE TMC*, *IEEE TITS*, *IEEE ICDE*, *PVLDB*, *IJCAI*, and *ACM CIKM*. I also serve as a reviewer for journals such as *IEEE TKDE* and *IEEE TMC*, and conferences including *ICDE*, *SIGKDD*, *IJCAI*, and *AAAI*.
 
-# **Research Interests**
+## **Research Interests**
 
 My research interests cover **Spatio-temporal Data Management and Analytics** and **Artificial Intelligence**, with a particular focus on:
 - **Spatial Crowdsourcing**  
@@ -19,7 +19,9 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
   *Collaborative human–AI decision-making for complex spatio-temporal tasks, sim-to-real transfer, and robust learning under uncertainty.*
 - **Intelligent Systems**  
   *LLM-powered multi-agent and intelligent unmanned systems.*
-
+  
+  ---
+  
 # **Selected Publications**
 *( *: equal contribution, #: corresponding author.)*
 ## **Journal papers**
@@ -53,6 +55,8 @@ My research interests cover **Spatio-temporal Data Management and Analytics** an
  <span style="color:blue;"><strong>[CIKM'22]</strong></span> PRID: An Efficient Pub/Sub Ride Hitching System.  
   Yafei Li, Lei Gao, Haobo Sun, Huiling Li, **Qingshun Wu**#.  
   *ACM International Conference on Information and Knowledge Management*, 2022.   <span style="color:red;"><strong>(CCF-B)</strong></span>  [<span style="color:rgb(34,75,141);">[Paper]</span>](https://dl.acm.org/doi/10.1145/3511808.3557213)  
+ 
+  ---
   
 # **Honors and Awards**
 
