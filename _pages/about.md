@@ -86,7 +86,7 @@ My research interests cover *Spatio-temporal Data Management* and *Artificial In
 
 # **Invited Talks** {#talks}
 
-- *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, IJCAI 2025, Guangzhou, China  
+- *HLMTrans: A Sim-to-Real Transfer Framework for Spatial Crowdsourcing*, IJCAI 2025, Montreal, Canada  
 - *AMRAS: A Visual Analysis System for Spatial Crowdsourcing*, VLDB 2022, Sydney, Australia  
 - *PRID: An Efficient Pub/Sub Ride Hitching System*, CIKM 2022, Atlanta, USA  
 
